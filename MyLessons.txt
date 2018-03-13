@@ -1,0 +1,21 @@
+Request -> pjax  (https://toster.ru/q/187543)
+
+ПАПКИ
+app/http/controller - контролери приложений
+resources\views - шаблон
+resources\lang - язик
+storage - достепен для запису і храняться временні скомпеліровані шаблони.
+vendor - для композера. Храняться ісходнікі
+
+КОНСОЛЬ
+$ php artisan -V - версія Laravel (5.5.31)
+$ php artisan list - список всіх команд
+$ php artisan help app:name - узнать які доступні параметри
+$ php artisan make:controller dir\<name> - створення нового контроллера в папкі Dir
+
+УРОКИ\\\
+Методы регистрации маршрутов. Часть 2
+Контроллеры
+Классы-посредники
+
+
